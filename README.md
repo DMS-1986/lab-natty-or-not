@@ -36,7 +36,7 @@ Outra diferença significativa é o público-alvo. Sustentabilidade é relevante
 ## Complementaridade dos Conceitos
 Embora diferentes em seu enfoque, sustentabilidade e ESG são complementares. A sustentabilidade oferece a base filosófica e o norte ético, enquanto o ESG provê os mecanismos práticos e os indicadores necessários para avançar em direção a esse ideal. Empresas que adotam ambas as abordagens conseguem alinhar seus objetivos de negócio às expectativas da sociedade, criando valor compartilhado para todas as partes interessadas.
 Em resumo, a compreensão das diferenças e da complementaridade entre sustentabilidade e ESG é essencial para o desenvolvimento de soluções inovadoras e eficazes para os desafios globais. Juntas, essas abordagens representam caminhos fundamentais para a construção de um futuro mais equilibrado, resiliente e próspero para todos.
-
+- [Imagem 1](https://github.com/DMS-1986/lab-natty-or-not/blob/main/exemplos/imagem%201.webp)
 
 
 
