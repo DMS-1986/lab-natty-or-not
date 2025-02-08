@@ -1,7 +1,7 @@
 # Sustentabilidade em descoberta
 
 ## 📒 Descrição
-O projeto consiste em pesquisa sobre o tema Sustentabilidade e criação de imagens para futura criação de apresentação. 
+O projeto consiste em pesquisa sobre o tema Sustentabilidade e criação de imagens para futura criação de apresentação.
 
 ## 🤖 Tecnologias Utilizadas
 Foi utilizado o chatGPT para criação de imagens e texto.
